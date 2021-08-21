@@ -21,21 +21,14 @@ I`m twin👶👶  papa live in Korea 🇰🇷
 
 ------
 
+##### 📚📚 My SKILL STACK 📚📚
 
-📚📚 My SKILL STACK 📚📚
 
-- <img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-- <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-- <img src="https://img.shields.io/badge/GOLANG-00AEF0?style=flat-square&logo=go&logoColor=white"/></a>
-- <img src="https://img.shields.io/badge/KUBERNETS-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-- <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 
-<!---
-twinappa/twinappa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a><img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a><img src="https://img.shields.io/badge/GOLANG-00AEF0?style=flat-square&logo=go&logoColor=white"/></a><img src="https://img.shields.io/badge/KUBERNETS-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a><img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twinappa&show_icons=true&theme=radical)
+------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twinappa&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twinappa)](https://github.com/anuraghazra/github-readme-stats)
